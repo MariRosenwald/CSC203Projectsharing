@@ -1,0 +1,6 @@
+atlantis images/atlantis0.bmp 255 255 255 0
+sea images/sea.bmp 255 255 255 0
+octo images/s1.bmp 255 255 255 0
+octo images/s2.bmp 255 255 255 0
+obstacle images/rock.bmp
+background_default images/none.bmp
